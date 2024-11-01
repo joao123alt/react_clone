@@ -1,6 +1,5 @@
 import { Button } from "../../components/buttom_form"
 import { InputField } from "../../components/InputField";
-import { LoginOption } from "../../components/login_option";
 
 import { Container, Tittle, ContentForms, Paragraph } from "./style";
 

@@ -27,6 +27,9 @@ export const Tittle = styled.h1`
   color: #2D333A;
 `;
 
+
+
+
 export const Paragraph = styled.span`
   font-size: 15px;
       a{
@@ -35,4 +38,5 @@ export const Paragraph = styled.span`
 
   }
  
+
  `;

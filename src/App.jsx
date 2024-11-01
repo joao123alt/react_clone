@@ -1,8 +1,8 @@
-import { Login } from "./pages/login"
+import { Home } from "./pages/home"
 
 
 export const App = () => {
   return (
-    <Login />
+    <Home />
   )
 }
